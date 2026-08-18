@@ -11,3 +11,7 @@ For the inputs, you only need to input numbers (float). For example,
 - y1 = 7
 - x2 = 4
 - y2 = 1
+
+## Sample Output
+If you use the inputs from the inputs needed, the calculator will output this:
+
