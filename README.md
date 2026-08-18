@@ -15,3 +15,4 @@ For the inputs, you only need to input numbers (float). For example,
 ## Sample Output
 If you use the inputs from the inputs needed, the calculator will output this:
 
+**The distance between the two points is 6.32**
